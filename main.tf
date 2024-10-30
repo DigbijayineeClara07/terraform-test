@@ -2,7 +2,7 @@ module "bucket" {
   source  = "terraform-google-modules/cloud-storage/google//modules/simple_bucket"
   version = "~> 6.0"
 
-  name       = "clara-gcp-bucket-test2210"
+  name       = "clara-gcp-bucket-test2u57210"
   project_id = "stackguardian-nonprod"
   location   = "us"
 
